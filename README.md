@@ -39,7 +39,7 @@ IT Automation Engineer | Data Analyst
 
 The Power Automate workflow monitors EDC date changes and triggers notifications based on predefined business rules.
 
-power_automate_flow.png
+!ower_automate_flow.png
 
 ## Sample Output
 
